@@ -1,0 +1,21 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Fare,Embarked
+1,0,3,"Braund, Mr. Owen Harris",male,22,1,0,7.25,S
+2,1,1,"Cumings, Mrs. John Bradley",female,38,1,0,71.28,C
+3,1,3,"Heikkinen, Miss. Laina",female,26,0,0,7.92,S
+4,1,1,"Futrelle, Mrs. Jacques Heath",female,35,1,0,53.1,S
+5,0,3,"Allen, Mr. William Henry",male,35,0,0,8.05,S
+6,0,3,"Moran, Mr. James",male,,0,0,8.46,Q
+7,0,1,"McCarthy, Mr. Timothy",male,54,0,0,51.86,S
+8,1,3,"Palsson, Master. Gosta",male,2,3,1,21.07,S
+9,1,2,"Johnson, Mrs. Oscar",female,27,0,2,11.13,S
+10,1,1,"Nasser, Mrs. Nicholas",female,14,1,0,30.07,C
+11,0,3,"Sandstrom, Miss. Marguerite",female,4,1,1,16.7,S
+12,1,2,"Bonnell, Miss. Elizabeth",female,58,0,0,26.55,S
+13,0,3,"Saundercock, Mr. William",male,20,0,0,8.05,S
+14,0,3,"Andersson, Mr. Anders",male,39,0,5,31.27,S
+15,1,2,"Vestrom, Miss. Hulda",female,14,0,0,7.85,S
+16,1,1,"Beesley, Mr. Lawrence",male,34,0,0,13,S
+17,0,3,"Williams, Mr. Charles",male,28,0,0,8.05,S
+18,0,3,"Vander Planke, Miss. Augusta",female,18,0,0,7.23,S
+19,1,1,"Frolicher, Miss. Margaretha",female,24,0,2,39.6,C
+20,0,2,"Abbott, Mr. Rossmore",male,29,0,0,26,S
